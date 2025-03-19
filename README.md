@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thejas nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejas nair" height="30" width="40" /></a>
-<a href="https://instagram.com/thejas s nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thejas s nair" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mandeep-gohil-528031242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mandeep Gohil" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@matrix_smasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@matrix_smasher" height="30" width="40" /></a>
 </p>
 
